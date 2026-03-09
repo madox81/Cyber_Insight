@@ -44,10 +44,10 @@ The workflow followed in this project includes:
 
 ## Repository Structure
 ```
-├── data/ # Dataset files and preprocessing scripts
-├── training/ # Model training scripts
-├── evaluation/ # Evaluation notebooks and metrics
 ├── app/ # Gradio application code
+├── data/ # Dataset files and preprocessing scripts
+├── evaluation/ # Evaluation notebooks and metrics
+├── training/ # Model training scripts
 └── README.md
 ```
 
