@@ -43,12 +43,13 @@ The workflow followed in this project includes:
    A trained model was deployed as an interactive application using **Gradio**, allowing users to submit incident descriptions and receive automated analysis.
 
 ## Repository Structure
-
+```
 ├── data/ # Dataset files and preprocessing scripts
 ├── training/ # Model training scripts
 ├── evaluation/ # Evaluation notebooks and metrics
 ├── app/ # Gradio application code
 └── README.md
+```
 
 ## Models and Resources
 
@@ -105,7 +106,7 @@ Potential improvements include:
 
 ## License
 
-Specify the license for this repository here.
+Apache 2.0.
 
 ## Acknowledgments
 
