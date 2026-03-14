@@ -1,4 +1,4 @@
-# Cybersecurity Incident Analysis using Fine-Tuned Language Models
+# Cybersecurity Threat Analysis using Fine-Tuned Language Models
 
 ## Project Overview
 
